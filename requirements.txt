@@ -1,0 +1,5 @@
+requests
+tk
+Pillow
+youtube_transcript_api
+openai
